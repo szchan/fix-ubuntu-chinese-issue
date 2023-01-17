@@ -10,4 +10,4 @@ ubuntu中文字显示的错别字实为日文汉字。
  - 使用中文繁体的朋友，运行fix_tr.sh
 
 ---
-已在ubuntu 22.04; ubuntu 20.04测试。
+已在Ubuntu 22.04; Ubuntu 20.04测试。
