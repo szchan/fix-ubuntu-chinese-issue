@@ -10,4 +10,16 @@ ubuntu中文字显示的错别字实为日文汉字。
  - 使用中文繁体的朋友，运行fix-tr.sh
  - 运行结束后，重启系统以应用改动
 ---
+运行方式：
+简体：
+ 1. sudo chmod +x ./fix-si.sh
+ 2. sudo sh -c ./fix-si.sh
+
+繁体：
+ 1. sudo chmod +x ./fix-tr.sh
+ 2. sudo sh -c ./fix-tr.sh
+
+重启应用改动：sudo reboot
+
+---
 已在Ubuntu 22.04; Ubuntu 20.04测试。
