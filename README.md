@@ -19,7 +19,7 @@ ubuntu中文字显示的错别字实为日文汉字。
  1. sudo chmod +x ./fix-tr.sh
  2. sudo sh -c ./fix-tr.sh
 
-重启应用改动：sudo reboot
+重启系统应用改动：sudo reboot
 
 ---
 已在Ubuntu 22.04; Ubuntu 20.04测试。
